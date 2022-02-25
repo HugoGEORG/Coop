@@ -1,2 +1,25 @@
-# Coop
-Coop par Hugo GEORG et Théo Antolini réalisé pour l'apprentissage de VueJs | 2022
+# VueJS Coop
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/)
+
+
+##UIavatar 
+https://eu.ui-avatars.com/
