@@ -23,3 +23,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/)
 
 ##UIavatar 
 https://eu.ui-avatars.com/
+
